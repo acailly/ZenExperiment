@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://acailly.github.io/ZenExperiment/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://acailly.github.io/ZenExperiment/</loc>
+</url>
+<url>
+<loc>https://acailly.github.io/ZenExperiment/installer-une-gravity-light-dans-mon-cabanon.html</loc>
+<lastmod>2019-09-26T22:45:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://acailly.github.io/ZenExperiment/lancer-des-lightning-talks-chez-mon-client.html</loc>
+<lastmod>2019-09-26T22:49:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://acailly.github.io/ZenExperiment/proposer-un-meetup-sur-limpact-du-numerique.html</loc>
+<lastmod>2019-09-26T22:45:42+02:00</lastmod>
+</url>
+<url>
+<loc>https://acailly.github.io/ZenExperiment/remplacer-les-goodies-par-des-dons-aux-associations.html</loc>
+<lastmod>2019-09-26T22:45:48+02:00</lastmod>
+<image:image>
+<image:loc>https://acailly.github.io/ZenExperiment/media\posts\3/DONS_FINAUX-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://acailly.github.io/ZenExperiment/zenexperiment.html</loc>
+<lastmod>2019-09-26T22:09:55+02:00</lastmod>
+</url>
+</urlset>

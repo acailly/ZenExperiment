@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ZenExperiment</title>
+    <link href="https://acailly.github.io/ZenExperiment/feed.xml" rel="self" />
+    <link href="https://acailly.github.io/ZenExperiment" />
+    <updated>2019-09-26T22:50:51+02:00</updated>
+    <author>
+        <name>Antoine Cailly</name>
+    </author>
+    <id>https://acailly.github.io/ZenExperiment</id>
+
+    <entry>
+        <title>Lancer des Lightning Talks chez mon client</title>
+        <author>
+            <name>Antoine Cailly</name>
+        </author>
+        <link href="https://acailly.github.io/ZenExperiment/lancer-des-lightning-talks-chez-mon-client.html"/>
+        <id>https://acailly.github.io/ZenExperiment/lancer-des-lightning-talks-chez-mon-client.html</id>
+
+        <updated>2019-09-26T22:49:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pourquoi ? Parce que les gens ne se parlaient pas beaucoup entre services. Ca me paraissait être un bon moyen de partager sans pour autant necessiter de gros effort d'organisation. Dès la première session on a parlé de crochetage de serrure ou d'appellation des vins. Je ne&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dlnkjer40">Pourquoi ? </h2>
+<p>Parce que les gens ne se parlaient pas beaucoup entre services.</p>
+<p>Ca me paraissait être un bon moyen de partager sans pour autant necessiter de gros effort d'organisation.</p>
+<p> </p>
+<h2 id="mcetoc_1dlnkn09a1">Bilan</h2>
+<p>Dès la première session on a parlé de crochetage de serrure ou d'appellation des vins. Je ne m'attendait pas à ce que les sujets sortent si vite du cadre professionel.</p>
+<p>Ca a permis d'élargir l'audience puisque les sujets proposés n'étaient pas réservés aux informaticiens. D'une audience restreinte à l'équipe de dev au tout début nous sommes passés à environ 7 services avec des métiers différents.</p>
+<p>Quelques sujets :</p>
+<ul>
+<li>Le crochetage de serrure</li>
+<li>Les appélations du vin</li>
+<li>L'hypnothérapie</li>
+<li>L'event storming</li>
+<li>Les meetups</li>
+<li>Le jugement majoritaire</li>
+<li>Les noeuds marins</li>
+<li>Mes voyages</li>
+<li>La Nariz del Diablo</li>
+<li>...</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Proposer un meetup sur l&#x27;impact du numérique</title>
+        <author>
+            <name>Antoine Cailly</name>
+        </author>
+        <link href="https://acailly.github.io/ZenExperiment/proposer-un-meetup-sur-limpact-du-numerique.html"/>
+        <id>https://acailly.github.io/ZenExperiment/proposer-un-meetup-sur-limpact-du-numerique.html</id>
+
+        <updated>2019-09-26T22:45:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pourquoi ? Parce que la conférence de Sébastien Brault au Breizhcamp 2019 n'a pas été filmée et que je trouvais ca dommage. Je l'ai donc contacté et lui ai proposé de venir la refaire dans le cadre du meetup Nighclazz by Zenika Rennes : https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Rennes/events/260303587/ La&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pourquoi ?</p>
+<p>Parce que la conférence de Sébastien Brault au Breizhcamp 2019 n'a pas été filmée et que je trouvais ca dommage.</p>
+<p>Je l'ai donc contacté et lui ai proposé de venir la refaire dans le cadre du meetup <em>Nighclazz by Zenika Rennes</em> : <a href="https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Rennes/events/260303587/">https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Rennes/events/260303587/</a></p>
+<h2 id="mcetoc_1dlnketpo0">Bilan </h2>
+<p>La vidéo est en ligne : <a href="https://www.youtube.com/watch?v=bQdzuqARX7U">https://www.youtube.com/watch?v=bQdzuqARX7U</a></p>
+<p>Elle est longue parce qu'il y a eu beaucoup d'échanges après la conférence et on a du arrêter la captation au bout d'un moment sinon la vidéo aurait fait 3h.</p>
+<p>Je crois que voir cette conférence au BreizhCamp ou à la Nightclazz a été le déclencheur d'une prise de conscience chez quelques uns.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Remplacer les goodies par des dons aux associations</title>
+        <author>
+            <name>Antoine Cailly</name>
+        </author>
+        <link href="https://acailly.github.io/ZenExperiment/remplacer-les-goodies-par-des-dons-aux-associations.html"/>
+        <id>https://acailly.github.io/ZenExperiment/remplacer-les-goodies-par-des-dons-aux-associations.html</id>
+
+        <updated>2019-09-26T22:45:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pourquoi ?Voici le message envoyé sur le Slack #rennes : Salut @here, J'ai une idée de goodie pour le Breizhcamp, j'aimerais avoir votre avis :-) Le principe : Chaque participant trouve dans le sac de goodies un bon pour donner 1€ à une association parmi 3&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dlnjka760">Pourquoi ?</h2>
+<p>Voici le message envoyé sur le Slack #rennes :</p>
+<p><span style="font-weight: 400;">Salut @here,<br></span><span style="font-weight: 400;">J'ai une idée de goodie pour le Breizhcamp, j'aimerais avoir votre avis :-)<br></span><span style="font-weight: 400;"><strong>Le principe</strong> :<br></span><em><span style="font-weight: 400;">Chaque participant trouve dans le sac de goodies un bon pour donner 1€ à une association parmi 3 portant un QR Code individuel<br></span></em><span style="font-weight: 400;"><em>Le participant doit venir au stand Zenika pour badger son QR Code devant l'un des 3 lecteurs présent (1 par asso)<br></em></span><em><span style="font-weight: 400;">Les participants ne venant pas badger verront leur don distribué au hasard parmi les 3 assos<br></span></em><span style="font-weight: 400;"><strong>Avantages que j'y voit</strong> :<br></span><span style="font-weight: 400;">- Moins de gâchis, j'ai déjà 36 mugs, 18 paires d'écouteurs, 1 millions de balles et pleins d'autres choses qui ne me serviront jamais<br></span><span style="font-weight: 400;">- Ca encourage les participants à venir au stand Zenika<br></span><span style="font-weight: 400;">- On se démarque des autres<br></span><span style="font-weight: 400;">- On peut faire de la com' autour de l'aspect un peu plus eco responsable<br></span><span style="font-weight: 400;">- On peut faire de la com' autour de l'aspect solidaire<br></span><span style="font-weight: 400;">- On ne sait jamais, ca peut faire du buzz si les assos en question en parlent<br></span>WDYT ?</p>
+<h2 id="mcetoc_1dlnjqpii1">Bilan</h2>
+<p>Ca demande du temps, on a bien fait de se concentrer sur un dispositif simple, surtout qu'il fallait aussi contacter les assos et voir le visuel avec le marketing.</p>
+<p>C'était sympa de faire participer l'agence au choix des associations.</p>
+<p>Les filles du marketing ont été géniale pendant le salon pour promouvoir le truc.</p>
+<p><img class="post__image" src="https://acailly.github.io/ZenExperiment/media/posts/3/DONS_FINAUX-1.jpg" alt="" width="4640" height="3480"></p>
+<p>L'expérience a été reproduite à Lille et à Nantes. </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Installer une gravity light dans mon cabanon</title>
+        <author>
+            <name>Antoine Cailly</name>
+        </author>
+        <link href="https://acailly.github.io/ZenExperiment/installer-une-gravity-light-dans-mon-cabanon.html"/>
+        <id>https://acailly.github.io/ZenExperiment/installer-une-gravity-light-dans-mon-cabanon.html</id>
+
+        <updated>2019-09-26T22:45:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pourquoi ?J'avais besoin de lumière dans mon cabanon et je ne voulais pas tirer un cable electrique depuis ma maison. Accessoirement je voulais aussi tester un mode d'éclairage "autonome". Il me suffit de remonter le sac à l'aide de la poulie pour avoir 20 minutes de lumières. Ce n'est&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dlnj87sr1">Pourquoi ?</h2>
+<p>J'avais besoin de lumière dans mon cabanon et je ne voulais pas tirer un cable electrique depuis ma maison.</p>
+<p>Accessoirement je voulais aussi tester un mode d'éclairage "autonome".</p>
+<h2 id="mcetoc_1dlnj84pj0">Bilan</h2>
+<p>Il me suffit de remonter le sac à l'aide de la poulie pour avoir 20 minutes de lumières. Ce n'est pas hyper lumineux mais ca me suffit pour bricoler. </p>
+<p>Si j'ai besoin de plus de lumière je peux placer une extension près de la zone à eclairer.</p>
+<p>TODO Photos</p>
+<p>Ca remplit tout à fait le besoin de départ. Pas besoin de tirer un cable depuis la maison et de l'enterrer.</p>
+<p>Je sais maintenant qu'en cas de panne de courant j'aurai de quoi eclairer mon salon.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
